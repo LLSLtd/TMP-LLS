@@ -16,7 +16,7 @@
     "com.unity.ugui": "1.0.0"
   },
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git",
+    "url": "https://github.com/LLSLtd/TMP-LLS.git",
     "type": "git",
     "revision": "2ed20816523afd48413bb05f700e63017966a505"
   },
